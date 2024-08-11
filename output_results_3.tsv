@@ -1,0 +1,198 @@
+URL	Status	Commits	Issues
+https://github.com/sunpy/sunxspex	Moved to https://github.com/sunpy/sunkit-spex	169	38
+https://github.com/bioconductor/bbs	Active	3176	47
+https://github.com/daytonaio/docs	Active	61	17
+https://github.com/vmware-samples/cloud-automation-samples	Moved to https://github.com/vmware-archive/cloud-automation-samples	84	0
+https://github.com/vmware-labs/date-and-time-pattern-detection	Moved to https://github.com/vmware-archive/date-and-time-pattern-detection	15	0
+https://github.com/vmware/vsan-integration-for-prometheus	Moved to https://github.com/vmware-archive/vsan-integration-for-prometheus	19	2
+https://github.com/vmware/clarity-city	Moved to https://github.com/vmware-archive/clarity-city	131	3
+https://github.com/vmware/transport-java	Moved to https://github.com/vmware-archive/transport-java	761	0
+https://github.com/vmware/wavefront-plugin-for-jenkins	Moved to https://github.com/vmware-archive/wavefront-plugin-for-jenkins	59	0
+https://github.com/overture-stack/dms-ui	Active	272	0
+https://github.com/azure/ap5gc-vendor-tools	Active	16	0
+https://github.com/huggingface/lm-evaluation-harness	Active	3481	0
+https://github.com/microsoft/cluster-api-inplace-upgrader	Moved to https://github.com/microsoft/cluster-api-inplace-updater	20	0
+https://github.com/vitessio/vitess-tester	Active	184	1
+https://github.com/nats-io/nats.net.v2	Moved to https://github.com/nats-io/nats.net	470	37
+https://github.com/nats-io/nats.net	Active	470	37
+https://github.com/cockroachdb/cdc-sink	Moved to https://github.com/cockroachdb/replicator	788	53
+https://github.com/cryostatio/cryostat	Active	566	33
+https://github.com/blosc/caterva2	Moved to https://github.com/ironArray/Caterva2	1208	7
+https://github.com/cryostatio/cryostat3	Moved to https://github.com/cryostatio/cryostat	566	33
+https://github.com/enterprise-cmcs/macpro-quickstart-serverless-infra	Active	1	0
+https://github.com/enterprise-cmcs/serverless-iam-helper	Active	6	1
+https://github.com/enterprise-cmcs/serverless-idempotency-helper	Active	5	0
+https://github.com/alphagov/di-rad-prototypes	Active	130	0
+https://github.com/enterprise-cmcs/serverless-s3-bucket-helper	Active	7	1
+https://github.com/enterprise-cmcs/serverless-waf-plugin	Active	48	1
+https://github.com/enterprise-cmcs/mac-fc-amazon-ecs-run-task	Active	191	0
+https://github.com/google/bulk_fhir_tools	Active	183	1
+https://github.com/google/rust-crate-audits	Active	215	0
+https://github.com/alphagov/di-report-a-death	Active	108	0
+https://github.com/microsoft/tes-azure-legacy	Active	19	0
+https://github.com/microsoft/copilotstudiosamples	Active	317	48
+https://github.com/microsoft/aks-arc-apps	Active	96	3
+https://github.com/microsoft/powerapps-tooling	Active	567	12
+https://github.com/microsoft/entraexporter	Active	186	16
+https://github.com/microsoft/commercial-marketplace-solutions	Active	120	1
+https://github.com/enterprise-cmcs/macpro-mako	Active	1484	0
+https://github.com/microsoft/tokenmixers	Active	55	3
+https://github.com/microsoft/everyonecancode	Active	613	3
+https://github.com/microsoft/spfx-gulp-tools	Active	139	3
+https://github.com/microsoft/microsoft-purview-advanced-rich-reports-mparr-collector	Active	212	11
+https://github.com/microsoft/ai2bmd	Active	22	2
+https://github.com/microsoft/net-offloads	Active	99	19
+https://github.com/kubernetes-sigs/karpenter	Active	880	148
+https://github.com/microsoft/few_shot_adaptation_for_parsing_contextual_utterances_with_llms	Active	11	0
+https://github.com/chaoss/wg-metrics-development	Active	390	24
+https://github.com/saltstack/salt-ci-images	Active	3527	0
+https://github.com/quantecon/book-dp1-public	Active	42	0
+https://github.com/microsoft/finops-toolkit	Active	493	126
+https://github.com/mdanalysis/mdahole2	Active	50	8
+https://github.com/scientific-python/cookie	Active	474	12
+https://github.com/econ-ark/estimatingmicrodsops	Active	151	1
+https://github.com/tc39/source-map	Active	180	48
+https://github.com/sunpy/sunkit-spex	Active	169	38
+https://github.com/eraser-dev/eraser-scanner-template	Active	46	0
+https://github.com/konveyor/operator	Active	431	8
+https://github.com/kube-rs/kube	Active	2416	72
+https://github.com/sonic-net/sonic-buildimage-msft	Active	7863	1
+https://github.com/aws/shim-loggers-for-containerd	Active	144	3
+https://github.com/aws/karpenter-provider-aws	Active	3578	302
+https://github.com/aws/amazon-q-connectjs	Active	38	2
+https://github.com/aws/aws-pdk	Active	735	17
+https://github.com/vmware-archive/upgrade-framework	Active	54	0
+https://github.com/vmware-archive/pyvcloud	Active	1222	71
+https://github.com/vmware-archive/vcd-cli	Active	974	123
+https://github.com/vmware-archive/vivace	Active	197	4
+https://github.com/vmware-archive/copenapi	Active	17	0
+https://github.com/vmware-archive/o11n-plugin-crypto	Active	37	4
+https://github.com/vmware-archive/nsx-integration-for-openshift	Active	86	2
+https://github.com/vmware-archive/salt-pack	Active	931	11
+https://github.com/vmware-archive/ansible-module-vcloud-director	Active	237	38
+https://github.com/vmware-archive/vcd-ext-sdk	Active	201	3
+https://github.com/vmware-archive/ansible-aws-greengrass	Active	114	1
+https://github.com/vmware-archive/test-operations	Active	119	0
+https://github.com/vmware-archive/ansible-role-greengrass-awscli	Active	14	0
+https://github.com/vmware-archive/bare-metal-server-integration-with-nsxt	Active	55	0
+https://github.com/vmware-archive/cloud-to-edge-automation	Active	43	0
+https://github.com/vmware-archive/clarity-assets	Active	25	1
+https://github.com/vmware-archive/cloud-to-edge-config-ui	Active	59	0
+https://github.com/vmware-archive/vcd-ext-samples	Active	18	4
+https://github.com/vmware-archive/go-reminders	Active	47	0
+https://github.com/vmware-archive/safekeeping	Active	89	4
+https://github.com/vmware-archive/vhpc-toolkit	Active	223	0
+https://github.com/vmware-archive/ansible-security-hardening	Active	101	1
+https://github.com/vmware-archive/nerpa	Active	202	10
+https://github.com/vmware-archive/vmware-cloud-director-ui-components	Active	590	29
+https://github.com/vmware-archive/cloud-director-ext-emulators	Active	33	0
+https://github.com/vmware-archive/transport-typescript	Active	658	3
+https://github.com/vmware-archive/cloud-director-typescript-clients	Active	46	0
+https://github.com/vmware-archive/vms-for-slurm	Active	18	0
+https://github.com/vmware-archive/bitfusion-with-kubernetes-integration	Active	55	9
+https://github.com/vmware-archive/people-counter-engagement	Active	19	0
+https://github.com/vmware-archive/metadata-reaper-for-kafka	Active	13	0
+https://github.com/vmware-archive/buildkit-cli-for-kubectl	Active	178	40
+https://github.com/vmware-archive/sonarqube-plugin-for-java	Active	15	0
+https://github.com/vmware-archive/sql-to-dbsp-compiler	Active	405	17
+https://github.com/vmware-archive/vrealize-automation-content-generator	Active	40	0
+https://github.com/vmware-archive/cloud-director-service-migration	Active	20	0
+https://github.com/vmware-archive/accessibility-visual-report	Active	52	0
+https://github.com/vmware-archive/build-inspector	Active	60	11
+https://github.com/vmware-archive/api-data-collector	Active	25	0
+https://github.com/vmware-archive/wasm-languages	Active	59	1
+https://github.com/vmware-archive/database-stream-processor	Active	832	63
+https://github.com/vmware-archive/repository-editor-for-tuf	Active	156	14
+https://github.com/vmware-archive/service-level-indicator-exporter-for-kafka	Active	51	0
+https://github.com/vmware-archive/rules_oss_audit	Active	10	2
+https://github.com/vmware-archive/webassembly-browser-apps	Active	24	2
+https://github.com/microsoft/azurelinux-tutorials	Active	65	6
+https://github.com/microsoft/azurelinuxvulnerabilitydata	Active	5717	0
+https://github.com/microsoft/adaptive-testing	Active	276	5
+https://github.com/microsoft/adaptive_cloud_community	Active	155	0
+https://github.com/microsoft/security-devops-common	Active	69	0
+https://github.com/microsoft/powerbi-visuals-utils-onobjectutils	Active	13	0
+https://github.com/microsoft/azure-genai-design-patterns	Active	160	0
+https://github.com/microsoft/vscode-ms-entra	Active	26	0
+https://github.com/microsoft/azurelinux	Active	6062	128
+https://github.com/azure/aksarc	Active	280	180
+https://github.com/azure/azure-center-for-sap-solutions	Active	205	0
+https://github.com/azure/external-metrics-ingestion-agent	Active	8	0
+https://github.com/azure/msccl-scheduler	Active	27	0
+https://github.com/azure/appcat-rulesets	Active	1782	10
+https://github.com/azure/azure-kusto-opentelemetry-demo	Active	743	0
+https://github.com/azure/mtm-labs	Active	68	6
+https://github.com/azure/terraform-azurerm-avm-ptn-alz	Active	108	2
+https://github.com/sigstore/model-transparency	Active	194	31
+https://github.com/cockroachdb/replicator	Active	788	53
+https://github.com/hashicorp/learn-terraform-variable-sets	Active	16	0
+https://github.com/hashicorp/learn-terraform	Active	13	0
+https://github.com/mongodb/laravel-mongodb	Active	1799	133
+https://github.com/ethstorage/chains	Active	2757	0
+https://github.com/gsa/ansible-os-ubuntu22	Active	34	0
+https://github.com/18f/approaches	Moved to https://github.com/18F/guides	1254	86
+https://github.com/18f/guides	Active	1254	86
+https://github.com/scikit-hep/uproot	Moved to https://github.com/scikit-hep/uproot3	2179	32
+https://github.com/scikit-hep/uproot4	Moved to https://github.com/scikit-hep/uproot5	881	58
+https://github.com/openmicroscopy/openmicroscopy	Moved to https://github.com/ome/openmicroscopy	48749	26
+https://github.com/saltstack/relative-environment-for-python	Moved to https://github.com/saltstack/relenv	751	8
+https://github.com/enterprise-cmcs/mako	Moved to https://github.com/Enterprise-CMCS/macpro-mako	1484	0
+https://github.com/scikit-hep/uproot5	Active	881	58
+https://github.com/aws/karpenter-core	Moved to https://github.com/kubernetes-sigs/karpenter	880	148
+https://github.com/microsoft/qdk-python	Moved to https://github.com/microsoft/azure-quantum-python	364	16
+https://github.com/streamxhub/streamx	Moved to https://github.com/apache/incubator-streampark	1892	217
+https://github.com/sociallycompute/update-test	Active	6	0
+https://github.com/microsoft/cloud-hubs	Moved to https://github.com/microsoft/finops-toolkit	493	126
+https://github.com/microsoft/powerapps-language-tooling	Moved to https://github.com/microsoft/PowerApps-Tooling	567	12
+https://github.com/pyvista/pyvista-posters	Moved to https://github.com/pyvista/pyvista-media	75	0
+https://github.com/microsoft/woodgrove-music-android	Moved to https://github.com/microsoft/woodgrove-music	54	0
+https://github.com/microsoft/security-utilities	Active	240	2
+http://github.com/bioconductor/bbs	Moved to https://github.com/bioconductor/bbs	3176	47
+https://github.com/ebay/zeta	Active	0	0
+https://github.com/hashicorp/learn-terraform-cloud	Moved to https://github.com/hashicorp/learn-terraform	13	0
+https://github.com/alphagov/ckanext-spatial	Active	1046	0
+https://github.com/microsoft/ics-forensics-tools	Active	12	3
+https://github.com/badging/badging	Active	444	8
+https://github.com/enterprise-cmcs/mac-fc-security-hub-visibility	Active	29	0
+https://github.com/blosc/caterva	Moved to https://github.com/ironArray/Caterva2	1208	7
+https://github.com/azure/terraform-azurerm-alz	Moved to https://github.com/Azure/terraform-azurerm-avm-ptn-alz	108	2
+https://github.com/aws/amazon-connect-wisdomjs	Moved to https://github.com/aws/amazon-q-connectjs	38	2
+https://github.com/azure/azure-center-for-sap-solutions-preview	Moved to https://github.com/Azure/Azure-Center-for-SAP-solutions	205	0
+https://github.com/microsoft/microsft-purview-advanced-rich-reports-mparr-collector	Moved to https://github.com/microsoft/Microsoft-Purview-Advanced-Rich-Reports-MPARR-Collector	212	11
+https://github.com/astropy/pytest-doctestplus	Moved to https://github.com/scientific-python/pytest-doctestplus	999	29
+https://github.com/scikit-hep/repo-review	Moved to https://github.com/scientific-python/repo-review	326	2
+https://github.com/scikit-hep/cookie	Moved to https://github.com/scientific-python/cookie	474	12
+https://github.com/pyvista/pyvista-gmsh	Moved to https://github.com/pyvista/scikit-gmsh	295	2
+https://github.com/aws/amazon-ecs-shim-loggers-for-containerd	Moved to https://github.com/aws/shim-loggers-for-containerd	144	3
+https://github.com/konveyor/tackle2-operator	Moved to https://github.com/konveyor/operator	431	8
+https://github.com/kube-rs/kube-rs	Moved to https://github.com/kube-rs/kube	2416	72
+https://github.com/pyvista/scikit-gmsh	Active	295	2
+https://github.com/google/medical_claims_tools	Moved to https://github.com/google/bulk_fhir_tools	183	1
+https://github.com/jenssegers/laravel-mongodb	Moved to https://github.com/mongodb/laravel-mongodb	1799	133
+https://github.com/cmsgov/serverless-waf-plugin	Moved to https://github.com/Enterprise-CMCS/serverless-waf-plugin	48	1
+https://github.com/microsoft/azure_arc_community	Moved to https://github.com/microsoft/adaptive_cloud_community	155	0
+https://github.com/apache/incubator-kvrocks	Moved to https://github.com/apache/kvrocks	1647	127
+https://github.com/hl7/fhir-us-pq-cmc	Moved to https://github.com/HL7/FHIR-us-pq-cmc-fda	426	0
+https://github.com/microsoft/aks-hci-apps	Moved to https://github.com/microsoft/AKS-Arc-Apps	96	3
+https://github.com/microsoft/activemlp	Moved to https://github.com/microsoft/TokenMixers	55	3
+https://github.com/quantecon/dp_text_website	Moved to https://github.com/QuantEcon/book-dp1-public	42	0
+https://github.com/microsoft/azure-openai-design-patterns	Moved to https://github.com/microsoft/azure-genai-design-patterns	160	0
+https://github.com/azure/sonic-buildimage-msft	Moved to https://github.com/sonic-net/sonic-buildimage-msft	7863	1
+https://github.com/microsoft/adatest	Moved to https://github.com/microsoft/adaptive-testing	276	5
+https://github.com/microsoft/azureadexporter	Moved to https://github.com/microsoft/EntraExporter	186	16
+https://github.com/microsoft/cbl-marinertutorials	Moved to https://github.com/microsoft/azurelinux-tutorials	65	6
+https://github.com/microsoft/powervirtualagentssamples	Moved to https://github.com/microsoft/CopilotStudioSamples	317	48
+https://github.com/azure/windup-rulesets	Moved to https://github.com/Azure/appcat-rulesets	1782	10
+https://github.com/microsoft/arbutus	Moved to https://github.com/microsoft/blueprints	605	46
+https://github.com/econ-ark/solvingmicrodsops-lifecycle	Moved to https://github.com/econ-ark/EstimatingMicroDSOPs	151	1
+https://github.com/ome/openmicroscopy	Active	48749	26
+https://github.com/azure/eraser	Moved to https://github.com/eraser-dev/eraser	628	50
+https://github.com/aws/aws-prototyping-sdk	Moved to https://github.com/aws/aws-pdk	735	17
+https://github.com/microsoft/anyonecancode	Moved to https://github.com/microsoft/everyonecancode	613	3
+https://github.com/vmware/transport-go	Moved to https://github.com/vmware-archive/transport-go	205	2
+https://github.com/vmware-labs/inclusive-language-ext-for-sonarqube	Moved to https://github.com/vmware-archive/inclusive-language-ext-for-sonarqube	31	0
+https://github.com/vmware/transport	Moved to https://github.com/vmware-archive/transport	42	0
+https://github.com/google/supply-chain	Moved to https://github.com/google/rust-crate-audits	215	0
+https://github.com/microsoft/vscode-entra-externalid	Moved to https://github.com/microsoft/vscode-ms-entra	26	0
+https://github.com/vmware/bridgeql	Moved to https://github.com/vmware-archive/bridgeql	99	5
+https://github.com/google/model-transparency	Moved to https://github.com/sigstore/model-transparency	194	31
