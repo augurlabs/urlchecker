@@ -11,3 +11,8 @@ Also, a separate URL Checker focused on GitHub, where additional metadata about 
 6. Run the program. For GitHub, it would be `python github_url_checker7.py`
 7. Wait and watch the progress
 8. Check the results
+
+## Included Data Files
+1. input_urls_1.tsv - Set of repositories that failed collection during catch up in August, 2024
+2. input_urls_2.tsv - Set of repositories in the process of collecting after being reset in August, 2024
+3. input_urls_3.tsv - Set of repositories that failed collection a second time in August, 2024
